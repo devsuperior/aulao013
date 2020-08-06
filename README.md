@@ -12,7 +12,7 @@ Não perca as novidades:
 
 Assista o vídeo desta aula:
 
-[![Image](https://img.youtube.com/vi/2mmKjJb9EBE/mqdefault.jpg "Vídeo no Youtube")](https://www.youtube.com/watch?v=2mmKjJb9EBE)
+[![Image](https://img.youtube.com/vi/IOJoJGDowEY/mqdefault.jpg "Vídeo no Youtube")](https://www.youtube.com/watch?v=IOJoJGDowEY)
 
 
 ## Sumário
